@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "Changed Network card in server 542",
+      "tech": "Rose Wills",
+      "attention": false,
+      "date": "2022-09-08T16:30:14.207Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Fixed hard-drive for room 343",
+      "attention": false,
+      "tech": "John Scott",
+      "date": "2022-09-10T01:16:04.891Z"
+    },
+    {
+      "message": "563 Network workstation down ",
+      "tech": "John Scott",
+      "attention": true,
+      "date": "2022-09-08T16:32:45.633Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Scott"
+    },
+    {
+      "id": 3,
+      "firstName": "Rose",
+      "lastName": "Wills"
+    }
+  ]
+}
